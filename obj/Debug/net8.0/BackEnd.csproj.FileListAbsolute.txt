@@ -1,0 +1,14 @@
+C:\Users\Administrador\Desktop\BackEnd\obj\Debug\net8.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BackEnd\obj\Debug\net8.0\BackEnd.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BackEnd\obj\Debug\net8.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BackEnd\bin\Debug\net8.0\BackEnd.exe
+C:\Users\Administrador\Desktop\BackEnd\bin\Debug\net8.0\BackEnd.deps.json
+C:\Users\Administrador\Desktop\BackEnd\bin\Debug\net8.0\BackEnd.runtimeconfig.json
+C:\Users\Administrador\Desktop\BackEnd\bin\Debug\net8.0\BackEnd.dll
+C:\Users\Administrador\Desktop\BackEnd\bin\Debug\net8.0\BackEnd.pdb
+C:\Users\Administrador\Desktop\BackEnd\obj\Debug\net8.0\BackEnd.dll
+C:\Users\Administrador\Desktop\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
+C:\Users\Administrador\Desktop\BackEnd\obj\Debug\net8.0\BackEnd.pdb
+C:\Users\Administrador\Desktop\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
